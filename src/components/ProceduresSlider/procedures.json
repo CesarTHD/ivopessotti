@@ -1,0 +1,69 @@
+{
+    "procedures": [
+        {
+            "name": "Rinoplastia",
+            "description": "Transforme o seu perfil e a sua autoestima! A rinoplastia permite remodelar e refinar o tamanho e a forma do seu nariz, harmonizando-o com o restante do rosto e realçando sua beleza única. Liberte sua verdadeira aparência e respire com confiança renovada.",
+            "icon": "/assets/icons/rosto.png"
+        },
+        {
+            "name": "Mamoplastia de aumento",
+            "description": "Realce sua feminilidade com mamas mais volumosas e proporcionais! Com o aumento de mama, você pode aumentar o volume e mudar a forma dos seus seios, alcançando um busto mais belo e natural. Descubra uma nova confiança e beleza em cada curva.",
+            "icon": "/assets/icons/mastopexia.png"
+        },
+        {
+            "name": "Lipoaspiração/ Lipoescultura",
+            "description": "Diga adeus aos depósitos de gordura teimosos! Com a lipoaspiração, você pode esculpir seu corpo de maneira precisa, removendo gordura indesejada e revelando curvas definidas. Recupere sua confiança e conquiste o contorno corporal dos seus sonhos.",
+            "icon": "/assets/icons/lipoescultura.png"
+        },
+        {
+            "name": "Abdominoplastia",
+            "description": "Alcance um abdômen mais firme e tonificado! A abdominoplastia é a solução para eliminar o excesso de pele e gordura abdominal, proporcionando um contorno abdominal mais esculpido e definido. Recupere sua autoconfiança e exiba uma barriga lisa e esculpida.",
+            "icon": "/assets/icons/corpo-1.png"
+        },
+        {
+            "name": "Blefaroplastia",
+            "description": "Abra os olhos para uma nova aparência rejuvenescida! Com a blefaroplastia, você pode remover o excesso de pele e gordura ao redor dos olhos, eliminando bolsas e rugas, e revelando uma aparência mais vibrante e descansada. Ilumine seu olhar e renove sua juventude.",
+            "icon": "/assets/icons/cirurgia-plastica-1.png"
+        },
+        {
+            "name": "Lifting facial/ cervical (Deep Plane e Deep Neck)",
+            "description": "Diga adeus à flacidez da face e do pescoço! Com o lifting facial, você pode rejuvenescer sua aparência, suavizando rugas e reposicionando os tecidos caídos, restaurando a juventude e firmeza da sua face. Redescubra uma versão mais jovem e radiante de si mesma.",
+            "icon": "/assets/icons/rosto.png"
+        },
+        {
+            "name": "Otoplastia",
+            "description": "Transforme suas orelhas e renove sua confiança! Com a otoplastia, você pode corrigir a forma e a posição das orelhas, criando uma aparência mais equilibrada e harmoniosa. Redescubra o prazer de exibir sua beleza sem preocupações.",
+            "icon": "/assets/icons/orelhas-1.png"
+        },
+        {
+            "name": "Cirurgia de contorno corporal",
+            "description": "Aprimore a forma do corpo, removendo o excesso de pele e gordura após perda de peso significativa ou gravidez, revelando uma silhueta mais definida e esculpida.",
+            "icon": "/assets/icons/corpo-1.png"
+        },
+        {
+            "name": "Redução de Mama",
+            "description": "Alivie o desconforto e recupere sua liberdade! Com a redução de mama, você pode diminuir o tamanho e o peso dos seios, aliviando dores nas costas e no pescoço e melhorando sua postura, desfrute de uma silhueta mais equilibrada e uma vida mais ativa.",
+            "icon": "/assets/icons/silicone.png"
+        },
+        {
+            "name": "Implantes de Glúteos",
+            "description": "Acentue suas curvas e eleve sua autoestima! Com os implantes de glúteos, você pode aumentar o volume e a projeção dos seus glúteos, criando um bumbum mais cheio e arredondado. Desperte sua sensualidade e confiança em cada passo.",
+            "icon": "/assets/icons/femea-1.png"
+        },
+        {
+            "name": "Cirurgia plástica íntima feminina",
+            "description": "Melhore a estética e a função da região genital feminina, corrigindo imperfeições e promovendo o bem-estar e a autoconfiança.",
+            "icon": "/assets/icons/corpo-1.png"
+        },
+        {
+            "name": "Lifting de coxas e braços",
+            "description": "Levante e tonifique as coxas e os braços, removendo o excesso de pele e gordura, proporcionando uma aparência mais firme e esculpida.",
+            "icon": "/assets/icons/braco.png"
+        },
+        {
+            "name": "Cirurgia plástica masculina (ginecomastia, lipo HD)",
+            "description": "Reconquiste sua masculinidade e autoconfiança! Com a correção da ginecomastia, você pode reduzir o excesso de tecido mamário masculino, alcançando um peitoral mais plano e atlético.",
+            "icon": "/assets/icons/homem-fitness.png"
+        }
+    ]
+}

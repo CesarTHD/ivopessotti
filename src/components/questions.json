@@ -1,0 +1,199 @@
+{
+    "partesDoCorpo": [
+        {
+            "name": "Nariz",
+            "options": [
+                {
+                    "Aumentar": "Rinoplastia",
+                    "video": "https://www.youtube.com/embed/sZPviSRsyZU?autoplay=1",
+                    "description": "Refine e harmonize as características do seu nariz, melhorando tanto a estética quanto a função respiratória."
+                },
+                {
+                    "Diminuir": "Rinoplastia",
+                    "video": "https://www.youtube.com/embed/sZPviSRsyZU?autoplay=1",
+                    "description": "Refine e harmonize as características do seu nariz, melhorando tanto a estética quanto a função respiratória."
+                }
+            ]
+        },
+        {
+            "name": "Face e Pescoço",
+            "options": [
+                {
+                    "Quero ter aparência mais jovem e radiante": "Facelift - cervical (Deep Plane e Deep Neck)",
+                    "video": "https://www.youtube.com/embed/OPmpf5A6ueA?autoplay=1",
+                    "description": "Revitalize sua aparência e renove sua confiança com o facelift! Este procedimento redefine os contornos do seu rosto, suavizando rugas e recuperando a firmeza da pele. Dê um passo em direção à versão mais jovem e radiante de si mesmo. Marque sua consulta hoje e descubra como podemos transformar sua jornada de beleza."
+                },
+                {
+                    "Remover excesso de pele e gordura": "Facelift - cervical (Deep Plane e Deep Neck)",
+                    "video": "https://www.youtube.com/embed/OPmpf5A6ueA?autoplay=1",
+                    "description": "Revitalize sua aparência e renove sua confiança com o facelift! Este procedimento redefine os contornos do seu rosto, suavizando rugas e recuperando a firmeza da pele. Dê um passo em direção à versão mais jovem e radiante de si mesmo. Marque sua consulta hoje e descubra como podemos transformar sua jornada de beleza."
+                },
+                {
+                    "Quero acabar com a flacidez e as rugas.": "FaceLift - cervical (Deep Plane e Deep Neck)",
+                    "video": "https://www.youtube.com/embed/OPmpf5A6ueA?autoplay=1",
+                    "description": "Revitalize sua aparência e renove sua confiança com o facelift! Este procedimento redefine os contornos do seu rosto, suavizando rugas e recuperando a firmeza da pele. Dê um passo em direção à versão mais jovem e radiante de si mesmo. Marque sua consulta hoje e descubra como podemos transformar sua jornada de beleza."
+                }
+            ]
+        },
+        {
+            "name": "Pálpebras",
+            "options": [
+                {
+                    "Diminuir": "Blefaroplastia",
+                    "video": "https://www.youtube.com/embed/ithvd50m7B0?autoplay=1",
+                    "description": "Alcance a confiança em cada gesto! Nossa braquioplastia redefine a aparência dos seus braços, proporcionando contornos mais suaves e definidos. Livre-se das preocupações com flacidez e agende sua consulta para descobrir como podemos transformar seus braços e elevar sua autoestima."
+                },
+                {
+                    "Quero acabar a Flacidez": "Blefaroplastia",
+                    "video": "https://www.youtube.com/embed/ithvd50m7B0?autoplay=1",
+                    "description": "Alcance a confiança em cada gesto! Nossa braquioplastia redefine a aparência dos seus braços, proporcionando contornos mais suaves e definidos. Livre-se das preocupações com flacidez e agende sua consulta para descobrir como podemos transformar seus braços e elevar sua autoestima."
+                },
+                {
+                    "Renovar meu Olhar": "Blefaroplastia",
+                    "video": "https://www.youtube.com/embed/ithvd50m7B0?autoplay=1",
+                    "description": "Alcance a confiança em cada gesto! Nossa braquioplastia redefine a aparência dos seus braços, proporcionando contornos mais suaves e definidos. Livre-se das preocupações com flacidez e agende sua consulta para descobrir como podemos transformar seus braços e elevar sua autoestima."
+                }
+            ]
+        },
+        {
+            "name": "Orelhas",
+            "options": [
+                {
+                    "Corrigir deformidades": "Otoplastia",
+                    "video": "https://www.youtube.com/embed/VGpTPOOEVzw?autoplay=1",
+                    "description": "Corrija a aparência das orelhas, reposicionando-as de forma mais harmoniosa e proporcional em relação ao rosto, aumentando a autoconfiança."
+                },
+                {
+                    "Melhorar a assimetria": "Otoplastia",
+                    "video": "https://www.youtube.com/embed/VGpTPOOEVzw?autoplay=1",
+                    "description": "Corrija a aparência das orelhas, reposicionando-as de forma mais harmoniosa e proporcional em relação ao rosto, aumentando a autoconfiança."
+                },
+                {
+                    "Acabar com a orelha de abano": "Otoplastia",
+                    "video": "https://www.youtube.com/embed/VGpTPOOEVzw?autoplay=1",
+                    "description": "Corrija a aparência das orelhas, reposicionando-as de forma mais harmoniosa e proporcional em relação ao rosto, aumentando a autoconfiança."
+                },
+                {
+                    "Redução das orelhas": "Otoplastia",
+                    "video": "https://www.youtube.com/embed/VGpTPOOEVzw?autoplay=1",
+                    "description": "Corrija a aparência das orelhas, reposicionando-as de forma mais harmoniosa e proporcional em relação ao rosto, aumentando a autoconfiança."
+                }
+            ]
+        },
+        {
+            "name": "Seios",
+            "options": [
+                {
+                    "Aumentar": "Mamoplastia de aumento",
+                    "video": "https://www.youtube.com/embed/K5kdJYPkc3A?autoplay=1",
+                    "description": "Aumente o volume e a projeção dos seios de forma natural, proporcionando uma aparência mais harmoniosa e confiante."
+                },
+                {
+                    "Diminuir": "Mamoplastia redutora",
+                    "video": "https://www.youtube.com/embed/rx9yWXECR7o?autoplay=1",
+                    "description": "Diminua o volume e a projeção dos seios de forma natural, proporcionando uma aparência mais harmoniosa e confiante."
+                }
+            ]
+        },
+        {
+            "name": "Coxas",
+            "options": [
+                {
+                    "Remover o excesso de pele e gordura": "Cruroplastia",
+                    "video": "https://www.youtube.com/embed/S5TJKl1hoA0?autoplay=1",
+                    "description": "Você merece sentir-se confiante em cada passo que dá! Nossa cruroplastia não apenas esculpe suas coxas, mas redefine toda a sua postura, proporcionando uma aparência mais esbelta e harmoniosa. Liberte-se das preocupações com a aparência das suas pernas e dê um passo seguro em direção à autoconfiança."
+                },
+                {
+                    "Melhorar o contorno corporal": "Cruroplastia",
+                    "video": "https://www.youtube.com/embed/S5TJKl1hoA0?autoplay=1",
+                    "description": "Você merece sentir-se confiante em cada passo que dá! Nossa cruroplastia não apenas esculpe suas coxas, mas redefine toda a sua postura, proporcionando uma aparência mais esbelta e harmoniosa. Liberte-se das preocupações com a aparência das suas pernas e dê um passo seguro em direção à autoconfiança."
+                }
+            ]
+        },
+        {
+            "name": "Costas",
+            "options": [
+                {
+                    "Remover o excesso de pele e gordura": "Torsoplastia",
+                    "video": "https://www.youtube.com/embed/oT2K6Ud6nbs?autoplay=1",
+                    "description": "Com a torsoplastia, esculpimos seu torso para uma silhueta mais elegante e confiante. Liberte-se das inseguranças e agende sua consulta hoje para renovar sua autoestima."
+                },
+                {
+                    "Melhorar o contorno corporal": "Torsoplastia",
+                    "video": "https://www.youtube.com/embed/oT2K6Ud6nbs?autoplay=1",
+                    "description": "Com a torsoplastia, esculpimos seu torso para uma silhueta mais elegante e confiante. Liberte-se das inseguranças e agende sua consulta hoje para renovar sua autoestima."
+                }
+            ]
+        },
+        {
+            "name": "Braços",
+            "options": [
+                {
+                    "Remover o excesso de pele e gordura": "Braquioplastia",
+                    "video": "https://www.youtube.com/embed/LISl3tr3JzA?autoplay=1",
+                    "description": "Alcance a confiança em cada gesto! Nossa braquioplastia redefine a aparência dos seus braços, proporcionando contornos mais suaves e definidos. Livre-se das preocupações com flacidez e agende sua consulta para descobrir como podemos transformar seus braços e elevar sua autoestima"
+                },
+                {
+                    "Melhorar o contorno corporal": "Braquioplastia",
+                    "video": "https://www.youtube.com/embed/LISl3tr3JzA?autoplay=1",
+                    "description": "Alcance a confiança em cada gesto! Nossa braquioplastia redefine a aparência dos seus braços, proporcionando contornos mais suaves e definidos. Livre-se das preocupações com flacidez e agende sua consulta para descobrir como podemos transformar seus braços e elevar sua autoestima"
+                }
+            ]
+        },
+        {
+            "name": "Queixo e pescoço",
+            "options": [
+                {
+                    "Remover excesso de pele e gordura do pescoço": "Facelift - cervical (Deep Plane e Deep Neck)",
+                    "video": "https://www.youtube.com/embed/OPmpf5A6ueA?autoplay=1",
+                    "description": "Remova o excesso de gordura localizada e esculpa o contorno corporal, proporcionando uma silhueta mais definida e proporcional."
+                },
+                {
+                    "Melhorar o contorno": "Facelift - cervical (Deep Plane e Deep Neck)",
+                    "video": "https://www.youtube.com/embed/OPmpf5A6ueA?autoplay=1",
+                    "description": "Remova o excesso de gordura localizada e esculpa o contorno corporal, proporcionando uma silhueta mais definida e proporcional."
+                }
+            ]
+        },
+        {
+            "name": "Região abdominal",
+            "options": [
+                {
+                    "Remover excesso de pele e gordura": "Abdominoplastia",
+                    "video": "https://www.youtube.com/embed/a5KSNpff_3U?autoplay=1",
+                    "description": "Descubra a chave para uma silhueta deslumbrante! Nossa abdominoplastia não apenas elimina a gordura localizada, mas esculpe delicadamente seu corpo, revelando curvas mais definidas e proporcionais. Dê um passo em direção à sua melhor versão - agende sua consulta hoje e descubra como podemos transformar sua jornada de beleza."
+                },
+                {
+                    "Melhorar aparência": "Abdominoplastia",
+                    "video": "https://www.youtube.com/embed/a5KSNpff_3U?autoplay=1",
+                    "description": "Descubra a chave para uma silhueta deslumbrante! Nossa abdominoplastia não apenas elimina a gordura localizada, mas esculpe delicadamente seu corpo, revelando curvas mais definidas e proporcionais. Dê um passo em direção à sua melhor versão - agende sua consulta hoje e descubra como podemos transformar sua jornada de beleza."
+                },
+                {
+                    "Deixar plano e firme": "Abdominoplastia",
+                    "video": "https://www.youtube.com/embed/a5KSNpff_3U?autoplay=1",
+                    "description": "Descubra a chave para uma silhueta deslumbrante! Nossa abdominoplastia não apenas elimina a gordura localizada, mas esculpe delicadamente seu corpo, revelando curvas mais definidas e proporcionais. Dê um passo em direção à sua melhor versão - agende sua consulta hoje e descubra como podemos transformar sua jornada de beleza."
+                }
+            ]
+        },
+        {
+            "name": "Áreas íntimas",
+            "options": [
+                {
+                    "Acabar com inseguranças e desconfortos": "Ninfoplastia",
+                    "video": "https://www.youtube.com/embed/2evAdymiVfQ?autoplay=1",
+                    "description": "Melhore a estética e a função da região genital feminina, corrigindo imperfeições e promovendo o bem-estar e a autoconfiança."
+                },
+                {
+                    "Remover excesso de pele": "Ninfoplastia",
+                    "video": "https://www.youtube.com/embed/2evAdymiVfQ?autoplay=1",
+                    "description": "Melhore a estética e a função da região genital feminina, corrigindo imperfeições e promovendo o bem-estar e a autoconfiança."
+                },
+                {
+                    "flacidez ou assimetria": "Ninfoplastia",
+                    "video": "https://www.youtube.com/embed/2evAdymiVfQ?autoplay=1",
+                    "description": "Melhore a estética e a função da região genital feminina, corrigindo imperfeições e promovendo o bem-estar e a autoconfiança."
+                }
+            ]
+        }
+    ]
+}
