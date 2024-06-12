@@ -54,12 +54,6 @@ function Home() {
             <FAQ />
           </div>
 
-
-          <div className="my-52 flex items-center bg-blue-default h-[700px]">
-            <CallToAction />
-          </div>
-
-
           <div className="my-32">
             <ExitIntentModal open={open} setOpen={setOpen} />
           </div>
