@@ -58,7 +58,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="w-full text-center text-lg pt-16 pb-8">
-                    <p>&copy; 2024 Dr. Ivo Pessotti. Todos os direitos reservados</p>
+                    <p>&copy; 2024 Dr. Ivo Pessotti. Todos os direitos reservados.</p>
                 </div>
             </div>
 
