@@ -76,14 +76,14 @@ export default function RootLayout({ children }) {
                 `,
                 }}
             />
-            <noscript><img height="1" width="1" style="display:none"
+            <noscript><img height="1" width="1" style={{display: 'none'}}
                 src="https://www.facebook.com/tr?id=1429150547719472&ev=PageView&noscript=1"
                 /></noscript>
 
 
       </head>
       <body>
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4K88ZFM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4K88ZFM" height="0" width="0" style={{display: 'none', visibility: 'hidden'}}></iframe></noscript>
         {children}
       </body>
     </html>
