@@ -15,8 +15,8 @@ const PrintComments = () => {
                 layout="responsive"
                 width={500}
                 height={500}
-                className="shadow-xl shadow-blue-default rounded-2xl object-contain"
-                src="/assets/print1.jpg"
+                className="object-contain"
+                src="/assets/print1.png"
                 alt="Comentários do instagram"
               />
             </div>
@@ -25,8 +25,8 @@ const PrintComments = () => {
                 layout="responsive"
                 width={500}
                 height={500}
-                className="shadow-xl shadow-blue-default rounded-2xl object-contain"
-                src="/assets/print3.jpg"
+                className="object-contain"
+                src="/assets/print3.png"
                 alt="Comentários do instagram"
               />
             </div>
@@ -35,8 +35,8 @@ const PrintComments = () => {
                 layout="responsive"
                 width={500}
                 height={500}
-                className="shadow-xl shadow-blue-default rounded-2xl object-contain"
-                src="/assets/print2.jpg"
+                className="object-contain"
+                src="/assets/print2.png"
                 alt="Comentários do instagram"
               />
             </div>
