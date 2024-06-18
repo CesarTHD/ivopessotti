@@ -50,7 +50,9 @@ const HeroSection = () => {
                 </div>
                 <div className="flex justify-between w-full mx-auto -mt-8 md:mt-0 2xl:mt-8 items-center">
                     <div className="flex flex-col relative w-full lg:w-[55%] items-center lg:items-start text-center lg:text-start">
-                        <h1 className="text-lg md:text-xl font-normal z-20"><span className="text-base md:text-lg">Descubra a Confiança Renovada com o</span> <span className="text-2xl md:text-3xl font-semibold"><br />Dr. Ivo Pessotti - <br /></span>Seu Cirurgião Plástico em Brasília.</h1>
+                        <p className="text-base md:text-lg">Descubra a Confiança Renovada com o</p>
+                        <h1 className="z-20 -mt-2 text-2xl md:text-3xl font-semibold">Dr. Ivo Pessotti - </h1>
+                        <h2 className="text-lg md:text-xl font-normal z-20">Seu Cirurgião Plástico em Brasília.</h2>
                         <p className="text-base md:text-base max-w-[95%] md:max-w-[80%] mt-8">
                             Bem-vinda ao seu caminho para uma autoestima revitalizada! Aqui, no meu
                             consultório, oferecemos uma abordagem cuidadosa e personalizada para cada

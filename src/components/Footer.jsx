@@ -23,24 +23,23 @@ const Footer = () => {
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 w-full">
                     <div className="md:max-w-[90%]">
-                        <p className="mb-6 text-lg font-medium">CNPJ: <span className="font-normal">00.959.864/0001-35</span></p>
+                        <p className="mb-2 text-lg font-medium">CNPJ: <span className="font-normal">00.959.864/0001-35</span></p>
                         <p className="mb-0 text-md font-normal"><span className="font-medium text-lg">Endereço:</span> Instituto de Cirurgia do Lago - QI 09 do Lago Sul, Bloco E1,
                         Sala 301/307 - Centro Clínico do Lago.</p>
 
                     </div>
                     <div className="ml-0 md:ml-52 lg:ml-16">
-                        <h3 className="mb-6 text-xl font-semibold">Links úteis:</h3>
-
+                        <h3 className="mt-10 md:mt-0 mb-2 text-xl font-semibold">Links úteis:</h3>
                         <ul>
-                            <a href="/"><li>Home</li></a>
-                            <a href="#about"><li>Sobre</li></a>
-                            <a href="#contact"><li>Contato</li></a>
-                            <a href="#FAQ"><li>FAQ</li></a>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="#about">Sobre</a></li>
+                            <li><a href="#contact">Contato</a></li>
+                            <li><a href="#FAQ">FAQ</a></li>
                         </ul>
                     </div>
                     <div className="">
-                        <h3 className="mb-6 text-xl font-semibold">Procedimentos:</h3>
-
+                        <h3 className="mt-10 lg:mt-0 mb-2 text-xl font-semibold">Procedimentos:</h3>
+                        
                         <ul>
                             <li><h1 className="text-white">Abdominoplastia</h1></li>
                             <li><h1 className="text-white">Blefaroplastia</h1></li>
