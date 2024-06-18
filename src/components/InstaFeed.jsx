@@ -18,7 +18,7 @@ const InstaFeed = () => {
                     <div className="grid grid-cols-2 gap-3 md:gap-6 lg:grid-cols-4 w-full">
                         <div className="relative h-64 w-full"
                         >
-                            <Image layout="fill" className="object-cover rounded-lg border-2 border-gold" src="/assets/instaFeed/pub1.jpg" alt="" />
+                            <Image layout="fill" className="object-cover rounded-lg border-2 border-gold" src="/assets/instaFeed/pub1.jpg" alt="Comentários instagram Ivo Pessotti" />
                             <div className="absolute flex items-center gap-2 justify-center text-white inset-0 bg-black opacity-0 transition-opacity duration-300 hover:opacity-70 rounded-lg">
                                 <i className="fa-solid fa-heart"></i>200
                                 <i className="fa-solid fa-comment ml-4"></i>51
@@ -26,7 +26,7 @@ const InstaFeed = () => {
                         </div>
                         <div className="relative h-64 w-full"
                         >
-                            <Image layout="fill" className="object-cover rounded-lg border-2 border-gold" src="/assets/instaFeed/pub2.jpg" alt="" />
+                            <Image layout="fill" className="object-cover rounded-lg border-2 border-gold" src="/assets/instaFeed/pub2.jpg" alt="Comentários instagram Ivo Pessotti" />
                             <div className="absolute flex items-center gap-2 justify-center text-white inset-0 bg-black opacity-0 transition-opacity duration-300 hover:opacity-70 rounded-lg">
                                 <i className="fa-solid fa-heart"></i>19
                                 <i className="fa-solid fa-comment ml-4"></i>3
@@ -34,7 +34,7 @@ const InstaFeed = () => {
                         </div>
                         <div className="relative h-64 w-full"
                         >
-                            <Image layout="fill" className="object-cover rounded-lg border-2 border-gold" src="/assets/instaFeed/pub3.jpg" alt="" />
+                            <Image layout="fill" className="object-cover rounded-lg border-2 border-gold" src="/assets/instaFeed/pub3.jpg" alt="Comentários instagram Ivo Pessotti" />
                             <div className="absolute flex items-center gap-2 justify-center text-white inset-0 bg-black opacity-0 transition-opacity duration-300 hover:opacity-70 rounded-lg">
                                 <i className="fa-solid fa-heart"></i>31
                                 <i className="fa-solid fa-comment ml-4"></i>3
@@ -42,7 +42,7 @@ const InstaFeed = () => {
                         </div>
                         <div className="relative h-64 w-full"
                         >
-                            <Image layout="fill" className="object-cover rounded-lg border-2 border-gold" src="/assets/instaFeed/pub4.jpg" alt="" />
+                            <Image layout="fill" className="object-cover rounded-lg border-2 border-gold" src="/assets/instaFeed/pub4.jpg" alt="Comentários instagram Ivo Pessotti" />
                             <div className="absolute flex items-center gap-2 justify-center text-white inset-0 bg-black opacity-0 transition-opacity duration-300 hover:opacity-70 rounded-lg">
                                 <i className="fa-solid fa-heart"></i>88
                                 <i className="fa-solid fa-comment ml-4"></i>3

@@ -31,7 +31,7 @@ const ProceduresSlider = () => {
           procedures.procedures.map((procedure, i) => (
             <div key={i} className="md:p-12 w-full max-w-[380px] text-center md:text-start mx-auto ">
               <div className="relative w-28 h-28 mx-auto md:mx-0">
-                <Image layout="fill" className="mx-auto md:mx-0 object-contain" src={procedure.icon} alt="" />
+                <Image layout="fill" className="mx-auto md:mx-0 object-contain" src={procedure.icon} alt="Ícone estética" />
               </div>
               <div className="flex flex-col gap-4">
                 <h2 className="text-lg md:text-xl pl-3 font-medium text-gold">{procedure.name}:</h2>
