@@ -11,6 +11,7 @@ import Header from '../components/Header'
 import About from '../components/About'
 import InstaFeed from '../components/InstaFeed'
 import PrintComments from '../components/PrintComments'
+import Testimonials from '@/components/Testimonials';
 
 function Home() {
 
@@ -47,6 +48,10 @@ function Home() {
 
           <div className='flex items-center my-32 w-full justify-center'>
             <PrintComments />
+          </div>
+
+          <div className="my-52">
+            <Testimonials />
           </div>
 
           <div id="FAQ"></div>

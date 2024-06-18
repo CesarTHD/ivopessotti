@@ -18,7 +18,7 @@ const CallToAction = () => {
                         <i className="fa-brands fa-whatsapp font-bold"></i><p className="text-sm lg:text-base xl:text-lg text-center">Agende Sua Consulta Agora Mesmo</p>
                     </a>
 
-                    <p className="font-light  md:text-lg p-1 mt-8 pl-1">Não perca a oportunidade de alcançar a melhor versão de si mesmo. Garanta sua consulta com um dos mais conceituados cirurgiões plásticos de Brasília!</p>
+                    <p className="font-light  md:text-lg p-1 mt-8 pl-1">Não perca a oportunidade de alcançar a melhor versão de si mesma. Garanta sua consulta com um dos mais conceituados cirurgiões plásticos de Brasília!</p>
                 </div>
             </div>
         </div>
