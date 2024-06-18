@@ -49,9 +49,9 @@ const HeroSection = () => {
                     <div className="absolute inset-x-0 h-28 bottom-0 bg-gradient-to-b from-transparent to-white z-10"></div>
                 </div>
                 <div className="flex justify-between w-full mx-auto -mt-8 md:mt-0 2xl:mt-8 items-center">
-                    <div className="flex flex-col relative w-full lg:w-[55%] items-center lg:items-start text-center lg:text-start">
+                    <div className="z-20 flex flex-col relative w-full lg:w-[55%] items-center lg:items-start text-center lg:text-start">
                         <p className="text-base md:text-lg">Descubra a Confiança Renovada com o</p>
-                        <h1 className="z-20 -mt-2 text-2xl md:text-3xl font-semibold">Dr. Ivo Pessotti - </h1>
+                        <h1 className="-mt-2 text-2xl md:text-3xl font-semibold">Dr. Ivo Pessotti - </h1>
                         <h2 className="text-lg md:text-xl font-normal z-20">Seu Cirurgião Plástico em Brasília.</h2>
                         <p className="text-base md:text-base max-w-[95%] md:max-w-[80%] mt-8">
                             Bem-vinda ao seu caminho para uma autoestima revitalizada! Aqui, no meu
