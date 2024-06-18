@@ -135,7 +135,7 @@ const FAQ = () => {
             <input id="formButton" type='submit' value="Quero fazer minha cirurgia plástica" className="uppercase bg-blue-default text-white rounded-3xl w-[90%] mx-auto p-3 text-xs md:text-base hover:cursor-pointer mt-8 hover:shadow-md hover:shadow-cyan-700 hover:scale-105 transition-all duration-200" />
           </form>
 
-          <p className="font-medium text-lg p-1 mt-4 pl-1">Não perca a oportunidade de alcançar a melhor versão de si mesmo. Garanta sua consulta com um dos mais conceituados cirurgiões plásticos de Brasília!</p>
+          <p className="font-medium text-lg p-1 mt-4 pl-1">Não perca a oportunidade de alcançar a melhor versão de si mesma. Garanta sua consulta com um dos mais conceituados cirurgiões plásticos de Brasília!</p>
         </div>
       </div>
     </div>
