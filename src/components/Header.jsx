@@ -4,8 +4,8 @@ const Header = () => {
 
     return (
         <header className="w-full h-24 flex items-end fixed top-0 bg-transparent-blue text-gold backdrop-blur shadow-gray-400 shadow-2xl z-50">
-            <div className="flex flex-col w-full px-8 mx-auto max-w-[1600px]">
-                <div className="flex justify-center items-center md:justify-between w-full px-16">
+            <div className="flex flex-col w-full max-w-[1600px]">
+                <div className="flex justify-center items-center md:justify-between w-full">
                     <a href={"/"} className="text-2xl font-bold">
                         <Image
                             src={"/assets/logo.png"}
@@ -14,7 +14,7 @@ const Header = () => {
                             height={60}
                         />
                     </a>
-                    <div className="flex">
+                    <div className="hidden md:flex">
                         <nav className="hidden lg:flex list-none items-center font-semibold gap-10">
                             <a href={"/"}>
                                 <li>

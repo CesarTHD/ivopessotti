@@ -51,7 +51,7 @@ const HeroSection = () => {
                     <div className="absolute inset-x-0 h-28 bottom-0 bg-gradient-to-b from-transparent to-white z-10"></div>
                 </div>
                 <div className="flex justify-between w-full mx-auto -mt-8 md:mt-0 2xl:mt-8 items-center">
-                    <div className="z-20 flex flex-col relative w-full lg:w-[55%] items-center lg:items-start text-center lg:text-start">
+                    <div className="z-20 flex flex-col relative w-full lg:w-[55%] px-4 md:px-0 items-center lg:items-start text-center lg:text-start">
                         <p className="text-base md:text-lg">Descubra a Confiança Renovada com o</p>
                         <h1 className="-mt-2 text-2xl md:text-3xl font-semibold">Dr. Ivo Pessotti - </h1>
                         <h2 className="text-lg md:text-xl font-normal z-20">Seu Cirurgião Plástico em Brasília.</h2>
@@ -68,7 +68,7 @@ const HeroSection = () => {
                             atender às suas necessidades e desejos.
 
                         </p>
-                        <div className="flex flex-col p-4 border mt-8 mx-4 lg:mx-0 lg:w-[72%] rounded-lg bg-[#3e6181] bg-opacity-20 border-blue-default z-40">
+                        <div className="flex flex-col p-4 border mt-8 lg:mx-0 lg:w-[72%] rounded-lg bg-[#3e6181] bg-opacity-20 border-blue-default z-40">
                             <p className="text-lg font-semibold pl-2">{answer}</p>
                             {!home &&
                                 <button className="flex gap-2 text-start my-3 w-min px-2"

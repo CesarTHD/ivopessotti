@@ -19,7 +19,7 @@ function Home() {
 
   return (
     <>
-      <div onMouseLeave={() => { setOpen(open + 1) }}>
+      <div className='overflow-x-hidden' onMouseLeave={() => { setOpen(open + 1) }}>
         <div id='home' className='font-custom'>
 
           <div className="bg-background-home">
