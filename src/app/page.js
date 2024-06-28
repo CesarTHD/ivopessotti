@@ -24,7 +24,7 @@ function Home() {
 
           <div className="bg-background-home">
             <Header />
-            <div className='max-w-[1700px] px-8 lg:px-32 mx-auto'>
+            <div className='max-w-[1700px] lg:px-32 mx-auto'>
               <HeroSection />
               <Specialties />
 

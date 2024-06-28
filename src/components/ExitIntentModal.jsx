@@ -4,7 +4,6 @@ const ExitIntentModal = ({ open, setOpen }) => {
     const [show, setShow] = useState(false);
 
     useEffect(() => {
-        console.log(open);
         if (open % 3 === 1) {
             setShow(true);
         } else if (open % 3 === 1 && show) {
