@@ -41,7 +41,7 @@ const ExitIntentModal = ({ open, setOpen }) => {
                             </p>
                             <hr className="m-4 md:m-8 border-gray-500 border-dotted border-t-4 p-2 w-full" />
                             <p>
-                                <a id="whatsappButton" target="_blank" href="#"
+                                <a id="whatsappButton" target="_blank" href="https://wa.me/5561998892688?text=Ol%C3%A1%2C+por+favor%2C+gostaria+de+agendar+uma+consulta."
                                     className=" bg-blue-default py-2 md:px-20 text-lg md:text-xl rounded-2xl text-white flex gap-4 hover:scale-110 transition-all duration-300">
                                     <i className="fa-brands fa-whatsapp mt-1 font-bold hidden md:block"></i>
                                     AGENDE SUA CONSUTA AGORA!

@@ -20,7 +20,7 @@ const Result = () => {
   const [thankYou, setThankYou] = useState(false);
   const [whatsapp, setWhatsapp] = useState("");
   const [open, setOpen] = useState(false);
-  const urlPost = "https://n8n.atlascorp.com.br/webhook/{}";
+  const urlPost = "https://n8n.atlascorp.com.br/webhook/c80b40a4-5576-486b-be9b-e985edec5003";
 
   let urlVideo;
   let procedureName;
