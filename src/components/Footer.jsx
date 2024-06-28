@@ -37,7 +37,7 @@ const Footer = () => {
                             <li><a href="#FAQ">FAQ</a></li>
                         </ul>
                     </div>
-                    <div className="">
+                    <div className="lg:ml-12">
                         <h3 className="mt-10 lg:mt-0 mb-2 text-xl font-semibold">Procedimentos:</h3>
                         
                         <ul>
