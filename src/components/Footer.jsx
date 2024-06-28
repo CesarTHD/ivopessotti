@@ -10,13 +10,13 @@ const Footer = () => {
                         <Image layout="fill" src={"/assets/logo.png"} className="object-contain" alt="logo dr ivo pessotti" />
                     </div>
                     <div className="flex text-3xl mt-8 md:mt-0 gap-2 items-end md:mr-28 lg:mr-44 xl:mr-80">
-                        <a href="https://www.facebook.com/people/Dr-Ivo-Pessotti/61556168870191/" target="_blank" className="hover:scale-125 transition-all duration-200">
+                        <a href="#" target="_blank" className="hover:scale-125 transition-all duration-200">
                             <i className="fa-brands fa-square-facebook"></i>
                         </a>
-                        <a href="https://www.instagram.com/dr.ivopessotti/" target="_blank" className="hover:scale-125 transition-all duration-200">
+                        <a href="#" target="_blank" className="hover:scale-125 transition-all duration-200">
                             <i className="fa-brands fa-square-instagram"></i>
                         </a>
-                        <a href="https://www.youtube.com/channel/UCQIEdTG8CKvFycU9csQXrvQ" target="_blank" className="hover:scale-125 transition-all duration-200">
+                        <a href="#" target="_blank" className="hover:scale-125 transition-all duration-200">
                             <i className="fa-brands fa-square-youtube"></i>
                         </a>
                     </div>
@@ -59,7 +59,7 @@ const Footer = () => {
                 <div className="w-full flex flex-col md:flex-row text-center justify-center items-center text-lg pt-16 gap-4 pb-4">
                     <p>&copy; Copyright 2024. Todos os direitos reservados. Desenvolvido por:</p>
                     <div className="w-32 relative h-16">
-                        <a href="https://wa.me/5561998555964?text=Ol%C3%A1,%20gostaria%20desenvolver%20um%20site!%20" target="_blank">
+                        <a href="#" target="_blank">
                             <Image layout="fill" src={"/assets/logo-xnove.webp"} className="object-contain" title="XNOVE" alt="logo xnove" />
                         </a>
                     </div>

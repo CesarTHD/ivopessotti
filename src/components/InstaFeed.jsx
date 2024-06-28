@@ -9,7 +9,7 @@ const InstaFeed = () => {
 
             <div className="flex justify-center w-full max-w-[1500px]">
                 <div className="flex flex-col gap-12 items-center p-4 md:p-12 w-full max-w-[90%] rounded-3xl">
-                    <a href="https://www.instagram.com/dr.ivopessotti/" 
+                    <a href="#" 
                         target="_blank" className="flex w-32 gap-2 m-4 md:m-0 text-lg bg-gold justify-center items-center text-blue-default rounded-md py-1 hover:shadow-lg hover:shadow-blue-default hover:scale-105 transition-all duration-200"
                     >
                         <i className="fa-brands fa-instagram"></i> Seguir
