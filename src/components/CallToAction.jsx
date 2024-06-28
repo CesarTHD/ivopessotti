@@ -1,8 +1,13 @@
 import Image from "next/image"
+import { useState } from "react"
+import ThankYou from "./ThankYou";
 
 const CallToAction = () => {
+    const [thankYou, setThankYou] = useState(false);
+
     return (
         <div className='flex justify-around items-center py-32 lg:my-48 px-2 lg:px-0'>
+            {thankYou && <ThankYou />}
             <div className='hidden md:flex w-full h-[580px] max-w-[50%] xl:max-w-[35%] relative'>
                 <Image src={'/assets/07.png'} layout="fill" className='absolute left-0 object-contain' alt="Modelo" />
             </div>
@@ -14,9 +19,9 @@ const CallToAction = () => {
                         <p className="text-sm md:text-base font-normal mt-8 pl-1">Após preenchimento do formulário, você será redirecionado ao nosso whatsapp.</p>
                     </div>
 
-                    <a id="whatsappButton" href="https://wa.me/5561998892688?text=Ol%C3%A1%2C+por+favor%2C+gostaria+de+agendar+uma+consulta." target="_blank" className="flex mx-auto md:mx-0 text-sm max-w-fit md:text-lg text-gray-900 bg-green-500 items-center mt-8 gap-1 md:gap-3 border-2 border-green-900 px-2 md:px-8 font-semibold py-2 rounded-xl hover:shadow-lg hover:shadow-blue-default hover:scale-105 transition-all duration-200">
+                    <button id="whatsappButton" onClick={() => {setThankYou(true)}} className="flex mx-auto md:mx-0 text-sm max-w-fit md:text-lg text-gray-900 bg-green-500 items-center mt-8 gap-1 md:gap-3 border-2 border-green-900 px-2 md:px-8 font-semibold py-2 rounded-xl hover:shadow-lg hover:shadow-blue-default hover:scale-105 transition-all duration-200">
                         <i className="fa-brands fa-whatsapp font-bold"></i><p className="text-sm lg:text-base xl:text-lg text-center">Agende Sua Consulta Agora Mesmo</p>
-                    </a>
+                    </button>
 
                     <p className="font-light  md:text-lg p-1 mt-8 pl-1">Não perca a oportunidade de alcançar a melhor versão de si mesma. Garanta sua consulta com um dos mais conceituados cirurgiões plásticos de Brasília!</p>
                 </div>

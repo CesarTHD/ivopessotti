@@ -23,8 +23,8 @@ export default function RootLayout({ children }) {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
-        
-        
+
+
         <title>Dr. Ivo Pessotti</title>
         <link rel="shortcut icon" type="imagex/png" href="/assets/logo-cut.png"></link>
 
@@ -34,37 +34,56 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous" referrerPolicy="no-referrer" />
 
         <meta name="facebook-domain-verification" content="5pr6dudw7macdjagxkbe2z22pa1a33" />
-          
+
         <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16593362999"></script>
-            <script
-                dangerouslySetInnerHTML={{
-                __html: `
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
                     window.dataLayer = window.dataLayer || [];
                     function gtag() { dataLayer.push(arguments); }
                     gtag('js', new Date());
 
                     gtag('config', 'AW-16593362999');
                 `,
-                }}
-            />
+          }}
+        />
 
-            <script async src="https://www.googletagmanager.com/gtag/js?id=G-58C48ZGEYG"></script>
-            <script
-                dangerouslySetInnerHTML={{
-                __html: `
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-58C48ZGEYG"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
 
                     gtag('config', 'G-58C48ZGEYG');
                 `,
-                }}
-            />
+          }}
+        />
 
+        {/* conversão do google */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              function gtag_report_conversion(url) {
+              var callback = function () {
+                if (typeof(url) != 'undefined') {
+                  window.location = url;
+                }
+              };
+              gtag('event', 'conversion', {
+                  'send_to': 'AW-16593362999/4cdkCMH1ubYZELfAqug9',
+                  'event_callback': callback
+              });
+              return false;
+            }
+        `,
+          }}
+        />
 
-            <script
-                dangerouslySetInnerHTML={{
-                __html: `
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
                     !function (f, b, e, v, n, t, s) {
                     if (f.fbq) return; n = f.fbq = function () {
                         n.callMethod ?
@@ -79,16 +98,16 @@ export default function RootLayout({ children }) {
                     fbq('init', '1429150547719472');
                     fbq('track', 'PageView');
                 `,
-                }}
-            />
-            <noscript><img height="1" width="1" style={{display: 'none'}}
-                src="https://www.facebook.com/tr?id=1429150547719472&ev=PageView&noscript=1"
-                /></noscript>
+          }}
+        />
+        <noscript><img height="1" width="1" style={{ display: 'none' }}
+          src="https://www.facebook.com/tr?id=1429150547719472&ev=PageView&noscript=1"
+        /></noscript>
 
 
       </head>
       <body>
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4K88ZFM" height="0" width="0" style={{display: 'none', visibility: 'hidden'}}></iframe></noscript>
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4K88ZFM" height="0" width="0" style={{ display: 'none', visibility: 'hidden' }}></iframe></noscript>
         {children}
       </body>
     </html>

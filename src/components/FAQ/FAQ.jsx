@@ -46,7 +46,6 @@ const FAQ = () => {
       body: JSON.stringify(lead)
     }).then((e) => {
       console.log("ok", e);
-      gtag_report_conversion();
       setThankYou(true);
     }).catch((e) => {
       console.log("erro", e)

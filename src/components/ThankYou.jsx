@@ -1,7 +1,7 @@
 const ThankYou = () => {
     
     setTimeout(()=> {
-        location.replace("https://wa.me/5561998892688?text=Ol%C3%A1%2C+por+favor%2C+gostaria+de+agendar+uma+consulta.");
+        gtag_report_conversion("https://wa.me/5561998892688?text=Ol%C3%A1%2C+por+favor%2C+gostaria+de+agendar+uma+consulta.");
     }, 2000)
 
     return (
