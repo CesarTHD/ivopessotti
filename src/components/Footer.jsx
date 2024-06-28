@@ -56,8 +56,13 @@ const Footer = () => {
                         </ul>
                     </div>
                 </div>
-                <div className="w-full text-center text-lg pt-16 pb-8">
-                    <p>&copy; 2024 Dr. Ivo Pessotti. Todos os direitos reservados.</p>
+                <div className="w-full flex flex-col md:flex-row text-center justify-center items-center text-lg pt-16 gap-4 pb-4">
+                    <p>&copy; Copyright 2024. Todos os direitos reservados. Desenvolvido por:</p>
+                    <div className="w-32 relative h-16">
+                        <a href="https://wa.me/5561998555964?text=Ol%C3%A1,%20gostaria%20desenvolver%20um%20site!%20" target="_blank">
+                            <Image layout="fill" src={"/assets/logo-xnove.webp"} className="object-contain" title="XNOVE" alt="logo xnove" />
+                        </a>
+                    </div>
                 </div>
             </div>
 
