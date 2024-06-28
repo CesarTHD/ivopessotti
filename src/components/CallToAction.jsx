@@ -2,7 +2,7 @@ import Image from "next/image"
 
 const CallToAction = () => {
     return (
-        <div className='flex justify-around items-center py-32 lg:my-48'>
+        <div className='flex justify-around items-center py-32 lg:my-48 px-2 lg:px-0'>
             <div className='hidden md:flex w-full h-[580px] max-w-[50%] xl:max-w-[35%] relative'>
                 <Image src={'/assets/07.png'} layout="fill" className='absolute left-0 object-contain' alt="Modelo" />
             </div>
