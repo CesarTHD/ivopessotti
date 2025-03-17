@@ -19,7 +19,7 @@ const CallToAction = () => {
                         <p className="text-sm md:text-base font-normal mt-8 pl-1">Após preenchimento do formulário, você será redirecionado ao nosso whatsapp.</p>
                     </div>
 
-                    <button id="whatsappButton" onClick={() => {setThankYou(true)}} className="flex mx-auto md:mx-0 text-sm max-w-fit md:text-lg text-gray-900 bg-green-500 items-center mt-8 gap-1 md:gap-3 border-2 border-green-900 px-2 md:px-8 font-semibold py-2 rounded-xl hover:shadow-lg hover:shadow-blue-default hover:scale-105 transition-all duration-200">
+                    <button id="whatsappButton" onClick={() => {setThankYou(true)}} className="flex justify-center w-full mx-auto md:mx-0 text-sm md:text-lg text-gray-900 bg-green-500 items-center mt-8 gap-1 md:gap-3 border-2 border-green-900 px-2 md:px-8 font-semibold py-2 rounded-xl hover:shadow-lg hover:shadow-blue-default hover:scale-105 transition-all duration-200">
                         <i className="fa-brands fa-whatsapp font-bold"></i><p className="text-sm lg:text-base xl:text-lg text-center">Agende Sua Consulta Agora Mesmo</p>
                     </button>
 
