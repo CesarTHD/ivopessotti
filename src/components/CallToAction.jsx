@@ -11,7 +11,7 @@ const CallToAction = () => {
             <div className='hidden md:flex w-full h-[580px] max-w-[50%] xl:max-w-[35%] relative'>
                 <Image src={'/assets/07.png'} layout="fill" className='absolute left-0 object-contain' alt="Modelo" />
             </div>
-            <div className='w-full md:w-[45%]'>
+            <div className='w-full md:w-[50%] xl:w-[40%]'>
                 <div className="w-full text-gray-100 text-center md:text-start">
                     <div className="text-lg">
                         <h1 className="text-xl md:text-3xl font-semibold pl-1 text-blue-default">A Melhor Cirurgia Plástica de Brasília</h1>
