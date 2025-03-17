@@ -23,7 +23,7 @@ const ExitIntentModal = ({ open, setOpen }) => {
                         <div className="relative p-6 md:p-12 bg-gray-100 bg-opacity-90 text-center flex flex-col items-center rounded-xl border-4 shadow-2xl shadow-gray-600 border-green-500">
                             <button
                                 className="absolute right-4 top-3"
-                                onClick={() => {setOpen(2);}}
+                                onClick={() => {setOpen(-1);}}
                             >
                                 <i className="fa-solid fa-xmark text-2xl text-red-600"></i>
                             </button>
