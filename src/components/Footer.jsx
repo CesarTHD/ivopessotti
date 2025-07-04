@@ -1,4 +1,5 @@
 import Image from "next/image"
+import procedures from "@/components/ProceduresSlider/procedures.json";
 
 const Footer = () => {
 
@@ -39,20 +40,10 @@ const Footer = () => {
                     </div>
                     <div className="lg:ml-12">
                         <h3 className="mt-10 lg:mt-0 mb-2 text-xl font-semibold">Procedimentos:</h3>
-                        
                         <ul>
-                            <li><h1 className="text-white">Abdominoplastia</h1></li>
-                            <li><h1 className="text-white">Blefaroplastia</h1></li>
-                            <li><h1 className="text-white">Cirurgia para Pós Bariátricos</h1></li>
-                            <li><h1 className="text-white">Deep Plane Facelift ou Deep Neck</h1></li>
-                            <li><h1 className="text-white">Ginecomastia</h1></li>
-                            <li><h1 className="text-white">Lifting de Coxas ou Braços</h1></li>
-                            <li><h1 className="text-white">Lipoaspiração, Lipoescultura ou Lipo HD</h1></li>
-                            <li><h1 className="text-white">Mamoplastia de Aumento</h1></li>
-                            <li><h1 className="text-white">Mamoplastia Redutora</h1></li>
-                            <li><h1 className="text-white">Ninfoplastia</h1></li>
-                            <li><h1 className="text-white">Otoplastia</h1></li>
-                            <li><h1 className="text-white">Rinoplastia</h1></li>
+                            {procedures.procedures.map((procedure) => (
+                                <li><h1 className="text-white">{procedure.name}</h1></li>
+                            ))}
                         </ul>
                     </div>
                 </div>
