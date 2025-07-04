@@ -42,7 +42,7 @@ const Footer = () => {
                         <h3 className="mt-10 lg:mt-0 mb-2 text-xl font-semibold">Procedimentos:</h3>
                         <ul>
                             {procedures.procedures.map((procedure) => (
-                                <li><h1 className="text-white">{procedure.name}</h1></li>
+                                <li key={procedure.name}><h1 className="text-white">{procedure.name}</h1></li>
                             ))}
                         </ul>
                     </div>
